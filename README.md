@@ -67,11 +67,13 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ![image](https://user-images.githubusercontent.com/94165326/169459675-1446d4c9-8806-4948-8860-a1117c9257e9.png)
 ![image](https://user-images.githubusercontent.com/94165326/169459730-f3293925-067c-4822-bd75-fed5d5f410ce.png)
 ![image](https://user-images.githubusercontent.com/94165326/169459769-412c0b30-0231-4738-880e-f9a4170c22cd.png)
+## without entropy:
 ![image](https://user-images.githubusercontent.com/94165326/169459806-ad106304-3ca3-4f64-b3b3-c3cb8846ac67.png)
 ![image](https://user-images.githubusercontent.com/94165326/169459841-1cc66fb5-190c-4187-8c4c-e866182da400.png)
+## with entropy:
 ![image](https://user-images.githubusercontent.com/94165326/169459864-3054f489-a343-452d-8f40-8ef0858a2223.png)
 ![image](https://user-images.githubusercontent.com/94165326/169459903-e1a53aeb-d64e-4f4c-a7b2-aa82fa614476.png)
-![image](https://user-images.githubusercontent.com/94165326/169459958-b3117df7-7042-4e82-9bc1-36e6f3930b69.png)
+
 
 
 
